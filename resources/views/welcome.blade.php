@@ -45,6 +45,9 @@
             <a href="#" class="flex items-center gap-3 p-3 rounded-lg hover:bg-slate-100">
                 ⚙️ Pengaturan
             </a>
+            <a href="#" class="flex items-center gap-3 p-3 rounded-lg hover:bg-slate-100">
+                ⚙️ Pengaturan
+            </a>
         </nav>
     </aside>
 
